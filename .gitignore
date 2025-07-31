@@ -3,6 +3,20 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Protect environment variables and configuration
+# The .env file contains sensitive API keys and secrets
+.env
+
+# The .env.local file is also commonly used for local-only secrets
+.env.local
+
+
+# Ignore common project dependencies and build artifacts
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+
 # User-specific files
 *.rsuser
 *.suo
