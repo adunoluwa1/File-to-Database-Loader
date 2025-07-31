@@ -17,4 +17,3 @@ Here are the instructions to setup this repository.
 
 You can also create tables with all relationships and load the data into all the tables by using `create_db.sql`.
 
-You can sign up for our courses to learn about Spark, kafka and other important technologies by clicking [here](http://discuss.itversity.com/t/udemy-coupons-big-data-courses/17934).
